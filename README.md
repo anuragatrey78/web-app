@@ -7,3 +7,6 @@ Adding lines for example branch
 This is just a Readme file
 ## Another update
 Just for test..123
+
+## Tags test
+Updating Readme for tag section
