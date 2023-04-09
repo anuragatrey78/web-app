@@ -1,10 +1,9 @@
 # web-app
 
 This is just a test
+Adding lines for example branch
+## Purpose
 
-This is a new test for update-readme branch
-
-Updated locally
-# Maicious update
-
-This is test for conflict
+This is just a Readme file
+## Another update
+Just for test..123
